@@ -7,10 +7,15 @@ There's nothing much to add for to. These examples use the `Mozilla's geckodrive
 ## Usage
 
 `ruby sel_locate.py` (Opens up Google, perform a search and checks for a specific link in the results)
+
 `ruby sel_screenshot.py` (Takes a screenshot of the web screen)
+
 `ruby sel_search.py` (Search in google using a provided keyword)
+
 `ruby sel_selectors.py` (CSS selectors basic example)
+
 `ruby sel_verify.py` (Regex search inside a web page)
+
 
 Once the program is running, a Firefox browser window will be displayed, and then will execute whatever logic is placed in the script's content.
 
